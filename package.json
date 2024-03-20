@@ -1,0 +1,15 @@
+{
+  "name": "mirekel07",
+  "version": "1.0.0",
+  "description": "<!--\r **Mirekel07/Mirekel07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.4.1"
+  }
+}
